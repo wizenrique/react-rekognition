@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React Appx
 
 `cp .env.example .env`
 
@@ -48,3 +48,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+![image](https://user-images.githubusercontent.com/81189422/173481732-4610d273-ebbb-4b45-90cc-a05bf121ad53.png)
+
