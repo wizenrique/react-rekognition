@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+`cp .env.example .env`
+
+Set your AWS credentials with Rekognition access in the `.env` file
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
