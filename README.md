@@ -18,6 +18,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+![image](https://user-images.githubusercontent.com/81189422/173481732-4610d273-ebbb-4b45-90cc-a05bf121ad53.png)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
@@ -48,6 +50,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-![image](https://user-images.githubusercontent.com/81189422/173481732-4610d273-ebbb-4b45-90cc-a05bf121ad53.png)
-
